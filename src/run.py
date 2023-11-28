@@ -12,3 +12,5 @@ import src.utils
 print(src.utils.reader('file.txt'))
 def sub(a, b):
     pass
+def int(a, b):
+    pass
